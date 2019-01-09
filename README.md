@@ -1,6 +1,6 @@
 # imagenet
 
-從imagenet，取得有bounding box的 annotations、images。
+從imagenet，取得**類別running shoe**，已經有bounding box的 annotations、images。
 
 http://image-net.org/api/text/imagenet.bbox.obtain_synset_wordlist
 
